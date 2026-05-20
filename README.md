@@ -62,6 +62,15 @@ Using the power budget equation and the parameters below, determine the attenuat
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
 
 ---
+##Tabulation
+---
+##10GB
+<img width="1920" height="1080" alt="Screenshot 2026-05-20 093426" src="https://github.com/user-attachments/assets/cbd872b8-bff9-473b-bfda-05c6bb9d21f4" />
+<img width="1515" height="1600" alt="image" src="https://github.com/user-attachments/assets/7bf3dd0c-947e-4716-9202-0942892b11d6" />
+##2.5GB
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0bf3e274-356f-426a-8958-f98e8291c1fe" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/5ea185d9-8efb-4d02-996a-7cd06bfdfdaa" />
+
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
